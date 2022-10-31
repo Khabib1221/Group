@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sade ve murekkeb ededler/1.0.0": {
+        "runtime": {
+          "Sade ve murekkeb ededler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sade ve murekkeb ededler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

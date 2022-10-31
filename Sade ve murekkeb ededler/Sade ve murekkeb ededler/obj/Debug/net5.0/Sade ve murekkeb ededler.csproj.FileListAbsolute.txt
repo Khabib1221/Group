@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\bin\Debug\net5.0\Sade ve murekkeb ededler.exe
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\bin\Debug\net5.0\Sade ve murekkeb ededler.deps.json
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\bin\Debug\net5.0\Sade ve murekkeb ededler.runtimeconfig.json
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\bin\Debug\net5.0\Sade ve murekkeb ededler.runtimeconfig.dev.json
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\bin\Debug\net5.0\Sade ve murekkeb ededler.dll
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\bin\Debug\net5.0\ref\Sade ve murekkeb ededler.dll
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\bin\Debug\net5.0\Sade ve murekkeb ededler.pdb
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\obj\Debug\net5.0\Sade ve murekkeb ededler.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\obj\Debug\net5.0\Sade ve murekkeb ededler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\obj\Debug\net5.0\Sade ve murekkeb ededler.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\obj\Debug\net5.0\Sade ve murekkeb ededler.AssemblyInfo.cs
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\obj\Debug\net5.0\Sade ve murekkeb ededler.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\obj\Debug\net5.0\Sade ve murekkeb ededler.dll
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\obj\Debug\net5.0\ref\Sade ve murekkeb ededler.dll
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\obj\Debug\net5.0\Sade ve murekkeb ededler.pdb
+C:\Users\user\source\repos\Sade ve murekkeb ededler\Sade ve murekkeb ededler\obj\Debug\net5.0\Sade ve murekkeb ededler.genruntimeconfig.cache
